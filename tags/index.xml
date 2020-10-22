@@ -2,43 +2,43 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Juan Stoppa</title>
-    <link>jstoppa.github.io/tags/</link>
+    <link>jstoppa.com/tags/</link>
     <description>Recent content in Tags on Juan Stoppa</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="jstoppa.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="jstoppa.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>css</title>
-      <link>jstoppa.github.io/tags/css/</link>
+      <link>jstoppa.com/tags/css/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>jstoppa.github.io/tags/css/</guid>
+      <guid>jstoppa.com/tags/css/</guid>
       <description></description>
     </item>
     
     <item>
       <title>html</title>
-      <link>jstoppa.github.io/tags/html/</link>
+      <link>jstoppa.com/tags/html/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>jstoppa.github.io/tags/html/</guid>
+      <guid>jstoppa.com/tags/html/</guid>
       <description></description>
     </item>
     
     <item>
       <title>markdown</title>
-      <link>jstoppa.github.io/tags/markdown/</link>
+      <link>jstoppa.com/tags/markdown/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>jstoppa.github.io/tags/markdown/</guid>
+      <guid>jstoppa.com/tags/markdown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>themes</title>
-      <link>jstoppa.github.io/tags/themes/</link>
+      <link>jstoppa.com/tags/themes/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>jstoppa.github.io/tags/themes/</guid>
+      <guid>jstoppa.com/tags/themes/</guid>
       <description></description>
     </item>
     
