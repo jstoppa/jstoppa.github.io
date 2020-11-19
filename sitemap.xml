@@ -3,6 +3,46 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://jstoppa.com/tags/api/</loc>
+    <lastmod>2020-11-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jstoppa.com/tags/fintech/</loc>
+    <lastmod>2020-11-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jstoppa.com/</loc>
+    <lastmod>2020-11-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jstoppa.com/posts/open_banking_what_is_it_and_how_does_it_work/post/</loc>
+    <lastmod>2020-11-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jstoppa.com/tags/openbanking/</loc>
+    <lastmod>2020-11-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jstoppa.com/posts/</loc>
+    <lastmod>2020-11-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jstoppa.com/tags/</loc>
+    <lastmod>2020-11-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jstoppa.com/tags/technology/</loc>
+    <lastmod>2020-11-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://jstoppa.com/archives/</loc>
   </url>
   
@@ -11,15 +51,7 @@
   </url>
   
   <url>
-    <loc>https://jstoppa.com/</loc>
-  </url>
-  
-  <url>
     <loc>https://jstoppa.com/series/</loc>
-  </url>
-  
-  <url>
-    <loc>https://jstoppa.com/tags/</loc>
   </url>
   
 </urlset>
