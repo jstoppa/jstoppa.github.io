@@ -1,0 +1,13 @@
+
+Providers:
+- TrueLayer
+- Plaid
+- Afterbanks
+- Banqup
+
+read about
+- yes.com
+
+
+FAPI ()
+- https://www.certification.openid.net/login.html
